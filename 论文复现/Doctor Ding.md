@@ -4,7 +4,8 @@
 - 阵元天线
 - 馈电网络
 - 移相器
-- 有源相控阵还包括T/R组件（含有固态高功率发射放大器和低噪声放大器）、
+- 有源相控阵还包括T/R组件（含有固态高功率发射放大器和低噪声放大器）、设定代码、波控器等等
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjIzOTI5MiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
 -->
