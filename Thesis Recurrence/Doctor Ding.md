@@ -1,5 +1,7 @@
 # 基于方向图可重构技术的相控阵大角度扫描特性研究
 
+## 相控阵基本概念
+
  **相控阵结构组成**
 - 阵元天线
 - 馈电网络
@@ -84,15 +86,15 @@
 ![四种开关对比](/imgs/2023-09-02/ln1z3vQzMRvLqOM6.png)
 
 
-## 研究工作主要内容
+## 论文研究工作主要内容
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5MmNDNUJvYlZWb2FUUFpvIjp7In
-N0YXJ0IjoxNDY3LCJlbmQiOjE0NjksInRleHQiOiLlvq7np5Ii
+N0YXJ0IjoxNDc5LCJlbmQiOjE0ODEsInRleHQiOiLlvq7np5Ii
 fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTEzOTM2OT
-A4MTRdfQ==
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbNDY2OTQxMD
+M5LC0xMzkzNjkwODE0XX0=
 -->
