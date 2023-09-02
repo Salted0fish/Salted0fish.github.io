@@ -52,12 +52,12 @@
 	- 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
 	*控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
 ![输入图片说明](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
-缺点——增大天线尺寸
+增加寄生辐射体缺点——增大天线尺寸
 - 改变馈电结构
-- 人工材料、yi'xing'jie'zhi
+- 人工材料、异性介质等特殊构造
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ1Mzk5NTMsLTc4NzY2ODY0NywtNT
-E0OTMxMzQ5LDE0OTk5NzE2NjUsLTIwMjQwNjU5NzIsLTE2Mjcz
-OTc1NDQsMTQ5Njg1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MT
-ddfQ==
+eyJoaXN0b3J5IjpbOTE0MDg4NzksLTc4NzY2ODY0NywtNTE0OT
+MxMzQ5LDE0OTk5NzE2NjUsLTIwMjQwNjU5NzIsLTE2MjczOTc1
+NDQsMTQ5Njg1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ
+==
 -->
