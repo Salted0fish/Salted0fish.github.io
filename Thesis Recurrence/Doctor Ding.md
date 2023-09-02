@@ -102,7 +102,8 @@
 	- **给出**一个实验样品天线论证**模型**
 3. 新型毫米波方向图可重构单元研究
 	- **根据**模型要求和方案**要求**，**设计**新型馈电可重构的毫米波方向图可重构**单元**，**分析**该单元方向图可重构**原理**，**提出**设计该类型方向图可重构天线的**定量设计方法**，**给出**相应理论预算**公式**。
-	- 
+	- 加工、测试、分析测试结果
+	- 多方面对比分析得到误差修正预算公式，给出更准确的理论预算解析表达式
 5. 含有方向图可重构单元的毫米波大角度扫描相控阵
 6. 总结与展望
 <!--stackedit_data:
@@ -112,6 +113,6 @@ fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTQ0MTM0Nj
-U1OCw0NjY5NDEwMzksLTEzOTM2OTA4MTRdfQ==
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTc3MDIwOT
+A3Miw0NjY5NDEwMzksLTEzOTM2OTA4MTRdfQ==
 -->
