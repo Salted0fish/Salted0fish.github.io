@@ -35,10 +35,10 @@
 	普通微带贴片最佳扫描范围为 ***单元法向+-60°范围***  [***参考文献 15-16***]
     可用技术：***方向图可重构技术***
     实现方法：
-    - 选用具有宽波束的辐射单元
-    - 
+    - 选用具有宽波束的辐射单元，如槽缝天线、偶极子天线、宽波束微带天线等。
+    - 采用“机械扫描+相位扫描”x
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTk3MTY2NSwtMjAyNDA2NTk3MiwtMT
-YyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4NjI5MjYsMTgyNTAz
-MjYxN119
+eyJoaXN0b3J5IjpbLTExMTI3NTMxMTksMTQ5OTk3MTY2NSwtMj
+AyNDA2NTk3MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4
+NjI5MjYsMTgyNTAzMjYxN119
 -->
