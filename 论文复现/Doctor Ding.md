@@ -48,12 +48,11 @@
 - 改变辐射体结构
 	- 改变辐射体内部结构（开槽、挖洞）
 
-	*控制嵌入开关通断切换单极子和偶极子*
+		*控制嵌入开关通断切换单极子和偶极子*
 	
 ![控制嵌入开关通断切换单极子和偶极子](/imgs/2023-09-02/CPqsNTlwk948x1sr.png)
 
-
-   - 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
+	- 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
 	
 *控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
 	
@@ -78,8 +77,8 @@
 - MEMS电磁开关
 - 光导开关
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzcyNzU4OSw4NjEwMzEzNiwxNjM0ND
-gyNjkxLDkxNDA4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwx
-NDk5OTcxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OT
-Y4NTAzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTE3MzM4MTIwNjMsODYxMDMxMzYsMTYzND
+Q4MjY5MSw5MTQwODg3OSwtNzg3NjY4NjQ3LC01MTQ5MzEzNDks
+MTQ5OTk3MTY2NSwtMjAyNDA2NTk3MiwtMTYyNzM5NzU0NCwxND
+k2ODUwMzg1LDE3OTI4NjI5MjYsMTgyNTAzMjYxN119
 -->
