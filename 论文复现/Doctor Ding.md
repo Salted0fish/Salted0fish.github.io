@@ -33,9 +33,12 @@
 - ***大角度扫描相控阵天线***
 	***制约扫描角度因素：阵元的互耦效应、阵元方向图以及阻抗匹配等。***
 	普通微带贴片最佳扫描范围为 ***单元法向+-60°范围***  [***参考文献 15-16***]
-    ***方向图可重构技术***
-    
+    可用技术：***方向图可重构技术***
+    实现方法：
+    - 选用具有宽波束的辐射单元
+    - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQwNjU5NzIsLTE2MjczOTc1NDQsMT
-Q5Njg1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ==
+eyJoaXN0b3J5IjpbMTQ5OTk3MTY2NSwtMjAyNDA2NTk3MiwtMT
+YyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4NjI5MjYsMTgyNTAz
+MjYxN119
 -->
