@@ -12,7 +12,7 @@
 
 ***
 
-***相控阵天线按照扫描方式分类：***
+***相控阵天线按照扫描方式分类***
 - 频率扫描天线（frequency scanning  antenna）
 - ***相位扫描天线（phased scanning antenna）***
 	相位扫描天线即普遍提及的相控阵天线（今后主流趋势）。
@@ -20,7 +20,13 @@
 	   阵元不产生信号，只改变信号相位。
 	- 有源相控阵（Active Phased Array）
 	   每一阵元都包含信号产生、发射和接收功能——***T/R组件***。
+
+***
+
+***相控阵天线发展前景***
+- 共形相控阵天线
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcyMDkzNjMsMTQ5Njg1MDM4NSwxNz
+eyJoaXN0b3J5IjpbLTIxMjM4MjkwMjIsMTQ5Njg1MDM4NSwxNz
 kyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
