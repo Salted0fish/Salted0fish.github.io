@@ -106,7 +106,9 @@
 	- 多方面对比分析得到**误差修正预算公式**，给出更准确的**理论预算解析表达式。**
 4. 含有方向图可重构单元的毫米波大角度扫描相控阵——综合模型
 	- 根据样品天线论证模型给出的相控阵天线结构，对其加工测试。测试内容包括各个单元有源方向图、辐射增益和反射系数。
-	- 
+	- 根据有源方向图对相控阵扫描空域进行子空域划分，在各子空域合成扫描波束。
+	- 依据扫描结果分析扫描自由度、扫描栅瓣、馈电网络等。
+	- 针对问题利用遗传算法进行优化。
 5. 总结与展望
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5MmNDNUJvYlZWb2FUUFpvIjp7In
@@ -115,7 +117,7 @@ fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTEwOTUxMT
-U5ODUsLTgwNzI0MjExMywtNTc0ODMyNDU5LDQ2Njk0MTAzOSwt
-MTM5MzY5MDgxNF19
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbMTY5OTc2OD
+c1NSwtODA3MjQyMTEzLC01NzQ4MzI0NTksNDY2OTQxMDM5LC0x
+MzkzNjkwODE0XX0=
 -->
