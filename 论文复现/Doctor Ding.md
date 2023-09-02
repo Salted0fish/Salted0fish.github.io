@@ -53,17 +53,17 @@
 
 	- 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
 	
-*控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
+		*控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
 	
-![改变外部结构](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
+		![改变外部结构](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
 
-增加寄生辐射体缺点——增大天线尺寸
+		增加寄生辐射体缺点——增大天线尺寸
 
 - 改变馈电结构
 
-*开关控制四个阵元是否工作（成为 ***哑元*** ）*
+	*开关控制四个阵元是否工作（成为 ***哑元*** ）*
 
-![输入图片说明](/imgs/2023-09-02/c0i819anyrrihQdA.png)
+	![输入图片说明](/imgs/2023-09-02/c0i819anyrrihQdA.png)
 
 - 人工材料、异性介质等特殊构造
 
@@ -76,8 +76,8 @@
 - MEMS电磁开关
 - 光导开关
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY3OTgwNDEsODYxMDMxMzYsMTYzND
-Q4MjY5MSw5MTQwODg3OSwtNzg3NjY4NjQ3LC01MTQ5MzEzNDks
-MTQ5OTk3MTY2NSwtMjAyNDA2NTk3MiwtMTYyNzM5NzU0NCwxND
-k2ODUwMzg1LDE3OTI4NjI5MjYsMTgyNTAzMjYxN119
+eyJoaXN0b3J5IjpbMjEzNzI0MTk5MSw4NjEwMzEzNiwxNjM0ND
+gyNjkxLDkxNDA4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwx
+NDk5OTcxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OT
+Y4NTAzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
 -->
