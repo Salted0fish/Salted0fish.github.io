@@ -101,7 +101,8 @@
 	   方案包括验证目标、验证内容以及结合一个具体目标的关键验证指标及其指标分解。
 	- **给出**一个实验样品天线论证**模型**
 3. 新型毫米波方向图可重构单元研究
-	- 根据模型要求和方案要求，设计新型馈电可重构的毫米波方向图可重构单元，分析该单元方向图可重构原理，提出设计
+	- **根据**模型要求和方案**要求**，**设计**新型馈电可重构的毫米波方向图可重构**单元**，**分析**该单元方向图可重构**原理**，**提出**设计该类型方向图可重构天线的**定量设计方法**，**给出**相应理论预算**公式**。
+	- 
 5. 含有方向图可重构单元的毫米波大角度扫描相控阵
 6. 总结与展望
 <!--stackedit_data:
@@ -111,6 +112,6 @@ fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbNTY3ODI2Nz
-YxLDQ2Njk0MTAzOSwtMTM5MzY5MDgxNF19
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTQ0MTM0Nj
+U1OCw0NjY5NDEwMzksLTEzOTM2OTA4MTRdfQ==
 -->
