@@ -26,8 +26,10 @@
 ***相控阵天线发展前景***
 - 共形相控阵天线
 - 智能蒙皮相控阵天线
-	具有低截获概率（）
+	具有低截获概率（LPI）和低可探测性（LO）
+	蒙皮：天线的共形和承载功能
+	智能：天线自适应性
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODExMTAwNywxNDk2ODUwMzg1LDE3OT
+eyJoaXN0b3J5IjpbMTA2Njg1MTc1NywxNDk2ODUwMzg1LDE3OT
 I4NjI5MjYsMTgyNTAzMjYxN119
 -->
