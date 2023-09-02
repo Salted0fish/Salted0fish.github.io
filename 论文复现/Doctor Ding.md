@@ -50,10 +50,11 @@
 	*控制嵌入开关通断切换单极子和偶极子*
 ![控制嵌入开关通断切换单极子和偶极子](/imgs/2023-09-02/CPqsNTlwk948x1sr.png)
 	- 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
-	
+	*控制微带贴片天线两侧俩寄生*
+![输入图片说明](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM1MDE1MzYsLTUxNDkzMTM0OSwxND
-k5OTcxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4
-NTAzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbMTQxNTQyOTg4MSwtNTE0OTMxMzQ5LDE0OT
+k5NzE2NjUsLTIwMjQwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Njg1
+MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
