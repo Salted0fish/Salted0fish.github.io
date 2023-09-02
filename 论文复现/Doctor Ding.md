@@ -29,7 +29,9 @@
 	具有低截获概率（LPI）和低可探测性（LO）
 	蒙皮：天线的共形和承载功能
 	智能：天线自适应性
+	技术难点：低RCS技术、动态低RCS技术、时域/空域/频域/重构技术、低截获概率技术、低可探测技术等
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njg1MTc1NywxNDk2ODUwMzg1LDE3OT
-I4NjI5MjYsMTgyNTAzMjYxN119
+eyJoaXN0b3J5IjpbLTE1Mzg1NTQyNTEsMTQ5Njg1MDM4NSwxNz
+kyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
