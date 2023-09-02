@@ -91,7 +91,7 @@
 	- 研究背景、发展动态和需求——总结亟需解决问题
 	- 综述可行性方案和可行技术
 	- 介绍本文研究工作、研究重点以及创新点
-2. 基于方向图可重构技术的平面相控阵大角度扫描方法
+2. 基于方向图可重构技术的平面相控阵大角度扫描方法——大阵列
 	- **分析**影响相控阵波束扫描的各种**参数**——相控阵扫描波束位置、宽度、增益、扫描过程出现的高旁瓣
 		- 相控阵排列方式
 		- 规模数
@@ -100,11 +100,11 @@
 	- 针对上述新思路新方法，**提出**详细的实验验证**方案**。
 	   方案包括验证目标、验证内容以及结合一个具体目标的关键验证指标及其指标分解。
 	- **给出**一个实验样品天线论证**模型**
-3. 新型毫米波方向图可重构单元研究
+3. 新型毫米波方向图可重构单元研究——小单元
 	- **根据**模型要求和方案**要求**，**设计**新型馈电可重构的毫米波方向图可重构**单元**，**分析**该单元方向图可重构**原理**，**提出**设计该类型方向图可重构天线的**定量设计方法**，**给出**相应理论预算**公式**。
 	- **加工、测试、分析**测试结果
 	- 多方面对比分析得到**误差修正预算公式**，给出更准确的**理论预算解析表达式。**
-4. 含有方向图可重构单元的毫米波大角度扫描相控阵
+4. 含有方向图可重构单元的毫米波大角度扫描相控阵——综合模型
 	
 6. 总结与展望
 <!--stackedit_data:
@@ -114,6 +114,7 @@ fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTU3NDgzMj
-Q1OSw0NjY5NDEwMzksLTEzOTM2OTA4MTRdfQ==
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTgwNzI0Mj
+ExMywtNTc0ODMyNDU5LDQ2Njk0MTAzOSwtMTM5MzY5MDgxNF19
+
 -->
