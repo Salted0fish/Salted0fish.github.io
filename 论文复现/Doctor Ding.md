@@ -54,10 +54,12 @@
 ![输入图片说明](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
 增加寄生辐射体缺点——增大天线尺寸
 - 改变馈电结构
+*开关控制四个阵元是否工作（成为 ***哑元*** ）*
+![输入图片说明](/imgs/2023-09-02/c0i819anyrrihQdA.png)
 - 人工材料、异性介质等特殊构造
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0MDg4NzksLTc4NzY2ODY0NywtNTE0OT
-MxMzQ5LDE0OTk5NzE2NjUsLTIwMjQwNjU5NzIsLTE2MjczOTc1
-NDQsMTQ5Njg1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ
-==
+eyJoaXN0b3J5IjpbMTYzNDQ4MjY5MSw5MTQwODg3OSwtNzg3Nj
+Y4NjQ3LC01MTQ5MzEzNDksMTQ5OTk3MTY2NSwtMjAyNDA2NTk3
+MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4NjI5MjYsMT
+gyNTAzMjYxN119
 -->
