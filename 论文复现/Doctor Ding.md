@@ -74,11 +74,12 @@
 - 变容二极管
 - MEMS（Micro Electro Mechanical Systems）微机电系统——电磁开关
 	在微波、毫米波段拥有独特优势——插入损耗低，响应时间短。
-- 光导开关
+- 光导开关（Photoconductive Swiches）
+	响应时间为微秒量级，功率容量可达几十瓦
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAxNzYzMzksLTc3MDQwMTkxMSwyMT
-M3MjQxOTkxLDg2MTAzMTM2LDE2MzQ0ODI2OTEsOTE0MDg4Nzks
-LTc4NzY2ODY0NywtNTE0OTMxMzQ5LDE0OTk5NzE2NjUsLTIwMj
-QwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Njg1MDM4NSwxNzkyODYy
-OTI2LDE4MjUwMzI2MTddfQ==
+eyJoaXN0b3J5IjpbMjY2MjY1OTY1LC0xNDUwMTc2MzM5LC03Nz
+A0MDE5MTEsMjEzNzI0MTk5MSw4NjEwMzEzNiwxNjM0NDgyNjkx
+LDkxNDA4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwxNDk5OT
+cxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAz
+ODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
 -->
