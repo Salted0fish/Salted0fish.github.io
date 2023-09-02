@@ -108,7 +108,9 @@
 	- 针对问题利用遗传算法进行**优化**。
 5. 总结与展望
 	总结、展望并提出新方向。
-## 贡献和创新点
+
+***
+
 
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5MmNDNUJvYlZWb2FUUFpvIjp7In
@@ -117,7 +119,7 @@ fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbMjI5NjQ0OD
-k1LC04MDcyNDIxMTMsLTU3NDgzMjQ1OSw0NjY5NDEwMzksLTEz
-OTM2OTA4MTRdfQ==
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbMjA4MDYyNz
+Y3NCwtODA3MjQyMTEzLC01NzQ4MzI0NTksNDY2OTQxMDM5LC0x
+MzkzNjkwODE0XX0=
 -->
