@@ -1,9 +1,5 @@
 # 基于方向图可重构技术的相控阵大角度扫描特性研究
 
-相控阵一般实现：具有宽波束的单元构成相控阵实现大角度扫描
-
-***
-
  ***相控阵结构组成***
 - 阵元天线
 - 馈电网络
@@ -43,11 +39,14 @@
 	    - 左手结构天线
 	    - 方向图可重构天线
 
-***
+## 方向图可重构技术
 
-***fang'xia***
+使得一付天线具备多付天线才能具有的功能。
+实现方法：
+- 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk0NDk4NTEsMTQ5OTk3MTY2NSwtMj
-AyNDA2NTk3MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4
-NjI5MjYsMTgyNTAzMjYxN119
+eyJoaXN0b3J5IjpbOTcxODkxMjYxLDE0OTk5NzE2NjUsLTIwMj
+QwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Njg1MDM4NSwxNzkyODYy
+OTI2LDE4MjUwMzI2MTddfQ==
 -->
