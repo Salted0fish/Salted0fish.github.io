@@ -17,8 +17,8 @@
 - 相位扫描天线（phased scanning antenna）
 	相位扫描天线即普遍提及的相控阵天线
 	- 无源相控阵（Passive Phased Array）
-	- 有源相控阵 （Active ）
+	- 有源相控阵（Active Phased Array）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjc2MzYzOSwxNzkyODYyOTI2LDE4Mj
+eyJoaXN0b3J5IjpbLTg1Mzk1Nzc0MywxNzkyODYyOTI2LDE4Mj
 UwMzI2MTddfQ==
 -->
