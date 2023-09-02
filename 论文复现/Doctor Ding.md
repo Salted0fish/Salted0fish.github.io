@@ -32,10 +32,10 @@
 	技术难点：低RCS技术、动态低RCS技术、时域/空域/频域/重构技术、低截获概率技术、低可探测技术等
 - ***大角度扫描相控阵天线***
 	***制约扫描角度因素：阵元的互耦效应、阵元方向图以及阻抗匹配等。***
-	普通微带贴片最佳扫描范围为 ***单元法向+-60°范围*** 内[***15-16***]
+	普通微带贴片最佳扫描范围为 ***单元法向+-60°范围***  [***参考文献 15-16***]
     ***方向图可重构技术***
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzAzMzM1LC0xNjI3Mzk3NTQ0LDE0OT
-Y4NTAzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTIwMjQwNjU5NzIsLTE2MjczOTc1NDQsMT
+Q5Njg1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
