@@ -20,8 +20,7 @@
 	   阵元不产生信号，只改变信号相位。
 	- 有源相控阵（Active Phased Array）
 	   每一阵元都包含信号产生、发射和接收功能——***T/R组件***。
-	   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Njg1MDM4NSwxNzkyODYyOTI2LDE4Mj
-UwMzI2MTddfQ==
+eyJoaXN0b3J5IjpbLTE3MTcyMDkzNjMsMTQ5Njg1MDM4NSwxNz
+kyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
