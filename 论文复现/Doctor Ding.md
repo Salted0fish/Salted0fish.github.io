@@ -16,8 +16,9 @@
 - 频率扫描天线（frequency scanning  antenna）
 - 相位扫描天线（phased scanning antenna）
 	相位扫描天线即普遍提及的相控阵天线
-	- 无源xia  
+	- 无源相控阵（Passive Phased Array）
+	- 有源相控阵 （Active ）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODY3MTgwOCwxNzkyODYyOTI2LDE4Mj
+eyJoaXN0b3J5IjpbMjEwMjc2MzYzOSwxNzkyODYyOTI2LDE4Mj
 UwMzI2MTddfQ==
 -->
