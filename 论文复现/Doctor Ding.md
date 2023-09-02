@@ -46,10 +46,12 @@
 
 ***方向图可重构天线*** 实现途径
 - 改变辐射体结构
+	- 改变辐射体内部结构（开槽、挖洞）
+	- 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
 - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDE2NjIwMiwxNDk5OTcxNjY1LC0yMD
+eyJoaXN0b3J5IjpbLTUxNDkzMTM0OSwxNDk5OTcxNjY1LC0yMD
 I0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAzODUsMTc5Mjg2
 MjkyNiwxODI1MDMyNjE3XX0=
 -->
