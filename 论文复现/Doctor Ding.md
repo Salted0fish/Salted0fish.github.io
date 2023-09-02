@@ -39,8 +39,12 @@
     - 采用“机械扫描+相位扫描”相结合的方式。
     - 采用共形技术。
     - 采用新型口径面分布和新型天线单元实现相控阵大角度扫描。
+	    - 离散分布口径面
+	    - 左手结构天线
+	    - 方向图可重构天线
+    - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk3NzA2NjUsMTQ5OTk3MTY2NSwtMj
+eyJoaXN0b3J5IjpbLTE4NzE3MDkzNDcsMTQ5OTk3MTY2NSwtMj
 AyNDA2NTk3MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4
 NjI5MjYsMTgyNTAzMjYxN119
 -->
