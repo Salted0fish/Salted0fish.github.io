@@ -70,15 +70,15 @@
 ***
 
 **方向图可重构天线中 开关 的应用**
-- PIN二极管
-	
+-  PIN二极管
 - 变容二极管
-- MEMS（Micro Electro Mechanical Systems）电磁开关
+- MEMS（Micro Electro Mechanical Systems）微机电系统——电磁开关
+	在微波、毫米波段拥有独特优势——插入损耗低，响应时间短。
 - 光导开关
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDQwMTkxMSwyMTM3MjQxOTkxLDg2MT
-AzMTM2LDE2MzQ0ODI2OTEsOTE0MDg4NzksLTc4NzY2ODY0Nywt
-NTE0OTMxMzQ5LDE0OTk5NzE2NjUsLTIwMjQwNjU5NzIsLTE2Mj
-czOTc1NDQsMTQ5Njg1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2
-MTddfQ==
+eyJoaXN0b3J5IjpbLTE0NTAxNzYzMzksLTc3MDQwMTkxMSwyMT
+M3MjQxOTkxLDg2MTAzMTM2LDE2MzQ0ODI2OTEsOTE0MDg4Nzks
+LTc4NzY2ODY0NywtNTE0OTMxMzQ5LDE0OTk5NzE2NjUsLTIwMj
+QwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Njg1MDM4NSwxNzkyODYy
+OTI2LDE4MjUwMzI2MTddfQ==
 -->
