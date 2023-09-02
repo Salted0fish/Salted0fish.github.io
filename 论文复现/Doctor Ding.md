@@ -43,10 +43,13 @@
 使得一付天线具备多付天线才能具有的功能。
 实现方法：改变自身工作频率、极化方式、阻抗带宽及辐射方向图等等。
 分类：频率可重构天线、极化可重构天线、方向图可重构天线等等。
-- 方向图可重构天线
+
+***方向图可重构天线*** 实现途径
+- 改变辐射体结构
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjUwODgzNiwxNDk5OTcxNjY1LC0yMD
+eyJoaXN0b3J5IjpbMTEyNDE2NjIwMiwxNDk5OTcxNjY1LC0yMD
 I0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAzODUsMTc5Mjg2
 MjkyNiwxODI1MDMyNjE3XX0=
 -->
