@@ -87,7 +87,12 @@
 
 
 ## 论文研究工作主要内容
-
+1. 绪论
+	- yan'jiu'bei'j
+2. 基于方向图可重构技术的平面相控阵大角度扫描方法
+3. 新型毫米波方向图可重构单元研究
+4. 含有方向图可重构单元的毫米波大角度扫描相控阵
+5. 总结与展望
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyI5MmNDNUJvYlZWb2FUUFpvIjp7In
 N0YXJ0IjoxNDc5LCJlbmQiOjE0ODEsInRleHQiOiLlvq7np5Ii
@@ -95,6 +100,6 @@ fX0sImNvbW1lbnRzIjp7IlNaeFlEa2lMWXdhMnBtR0EiOnsiZG
 lzY3Vzc2lvbklkIjoiOTJjQzVCb2JWVm9hVFBabyIsInN1YiI6
 ImdoOjczNTMwMzI5IiwidGV4dCI6IjEgcyA9IDEwXjYgdXNcbj
 EgcyA9IDEwXjkgbnNcbjEgcyA9IDEwXjEyIHBzIiwiY3JlYXRl
-ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbNDY2OTQxMD
-M5LC0xMzkzNjkwODE0XX0=
+ZCI6MTY5MzY0ODQ2NjQ1Nn19LCJoaXN0b3J5IjpbLTI1MDU3Mz
+Q0OSw0NjY5NDEwMzksLTEzOTM2OTA4MTRdfQ==
 -->
