@@ -40,13 +40,13 @@
 	    - 方向图可重构天线
 
 ## 方向图可重构技术
-
 使得一付天线具备多付天线才能具有的功能。
-实现方法：
-- 
+实现方法：改变自身工作频率、极化方式、阻抗带宽及辐射方向图等等。
+分类：频率可重构天线、极化可重构天线、方向图可重构天线等等。
+- 方向图可重构天线
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODkxMjYxLDE0OTk5NzE2NjUsLTIwMj
-QwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Njg1MDM4NSwxNzkyODYy
-OTI2LDE4MjUwMzI2MTddfQ==
+eyJoaXN0b3J5IjpbLTU3MjUwODgzNiwxNDk5OTcxNjY1LC0yMD
+I0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAzODUsMTc5Mjg2
+MjkyNiwxODI1MDMyNjE3XX0=
 -->
