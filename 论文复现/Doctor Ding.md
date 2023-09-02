@@ -55,11 +55,16 @@
 	
 *控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
 	
-![输入图片说明](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
+![改变外部结构](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
+
 增加寄生辐射体缺点——增大天线尺寸
+
 - 改变馈电结构
+
 *开关控制四个阵元是否工作（成为 ***哑元*** ）*
+
 ![输入图片说明](/imgs/2023-09-02/c0i819anyrrihQdA.png)
+
 - 人工材料、异性介质等特殊构造
 
 ***
@@ -71,8 +76,8 @@
 - MEMS电磁开关
 - 光导开关
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTM2NCw4NjEwMzEzNiwxNjM0NDgyNj
-kxLDkxNDA4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwxNDk5
-OTcxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NT
-AzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbOTAyNjI0NTIzLDg2MTAzMTM2LDE2MzQ0OD
+I2OTEsOTE0MDg4NzksLTc4NzY2ODY0NywtNTE0OTMxMzQ5LDE0
+OTk5NzE2NjUsLTIwMjQwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Nj
+g1MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
