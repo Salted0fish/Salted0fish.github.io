@@ -47,10 +47,14 @@
 **方向图可重构天线** 实现途径
 - 改变辐射体结构
 	- 改变辐射体内部结构（开槽、挖洞）
+
 	*控制嵌入开关通断切换单极子和偶极子*
+	
 ![控制嵌入开关通断切换单极子和偶极子](/imgs/2023-09-02/CPqsNTlwk948x1sr.png)
 	- 改变辐射体外部结构（辐射体四周添加寄生辐射体或改变主辐射体外部所连接负载状态）
-	*控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
+	
+*控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
+	
 ![输入图片说明](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
 增加寄生辐射体缺点——增大天线尺寸
 - 改变馈电结构
@@ -67,8 +71,8 @@
 - MEMS电磁开关
 - 光导开关
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMDMxMzYsMTYzNDQ4MjY5MSw5MTQwOD
-g3OSwtNzg3NjY4NjQ3LC01MTQ5MzEzNDksMTQ5OTk3MTY2NSwt
-MjAyNDA2NTk3MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OT
-I4NjI5MjYsMTgyNTAzMjYxN119
+eyJoaXN0b3J5IjpbMTM0MTM2NCw4NjEwMzEzNiwxNjM0NDgyNj
+kxLDkxNDA4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwxNDk5
+OTcxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NT
+AzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
 -->
