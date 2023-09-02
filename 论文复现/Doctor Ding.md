@@ -76,11 +76,14 @@
 	在微波、毫米波段拥有独特优势——插入损耗低，响应时间短。
 - 光导开关（Photoconductive Swiches）
 	响应时间为微秒量级，功率容量可达几十瓦，具有很好的同步精度，耐压能力，较高的隔离度，体积小，几乎不受电磁干扰。
-	
+	>- 散射矩阵：
+	>- 隔离度：
+	>- 插入损耗：
+	[图片上传中...(image-UVVJwxz8e8yItJrV)]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTU5NjQ3LC0xNDUwMTc2MzM5LC03Nz
-A0MDE5MTEsMjEzNzI0MTk5MSw4NjEwMzEzNiwxNjM0NDgyNjkx
-LDkxNDA4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwxNDk5OT
-cxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAz
-ODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTEyMDQzMTM5MjcsLTE0NTAxNzYzMzksLT
+c3MDQwMTkxMSwyMTM3MjQxOTkxLDg2MTAzMTM2LDE2MzQ0ODI2
+OTEsOTE0MDg4NzksLTc4NzY2ODY0NywtNTE0OTMxMzQ5LDE0OT
+k5NzE2NjUsLTIwMjQwNjU5NzIsLTE2MjczOTc1NDQsMTQ5Njg1
+MDM4NSwxNzkyODYyOTI2LDE4MjUwMzI2MTddfQ==
 -->
