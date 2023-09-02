@@ -14,9 +14,10 @@
 
 ***相控阵天线按照扫描方式分类：***
 - 频率扫描天线（frequency scanning  antenna）
-- 相位扫描天线（phased scanning antenna）即普遍提及的相控阵天线
-	- 的
+- 相位扫描天线（phased scanning antenna）
+	相位扫描天线即普遍提及的相控阵天线
+	- 无源xia  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTE3OTc1NzksMTc5Mjg2MjkyNiwxOD
-I1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTkzODY3MTgwOCwxNzkyODYyOTI2LDE4Mj
+UwMzI2MTddfQ==
 -->
