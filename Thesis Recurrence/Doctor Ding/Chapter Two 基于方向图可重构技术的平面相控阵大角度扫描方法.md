@@ -1,7 +1,5 @@
+# 基于方向图可重构技术的平面相控阵大角度扫描方法
 
-
-
-> Written with [StackEdit中文版](https://stackedit.cn/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTA1NjE5XX0=
+eyJoaXN0b3J5IjpbLTE4OTY3ODU4MTBdfQ==
 -->
