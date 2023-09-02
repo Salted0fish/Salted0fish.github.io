@@ -38,8 +38,9 @@
     - 选用具有宽波束的辐射单元，如槽缝天线、偶极子天线、宽波束微带天线等。
     - 采用“机械扫描+相位扫描”相结合的方式。
     - 采用共形技术。
+    - 采用新型口径面分布和新型天线单元实现相控阵大角度扫描。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDI3Nzc0MCwxNDk5OTcxNjY1LC0yMD
-I0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAzODUsMTc5Mjg2
-MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTE4Njk3NzA2NjUsMTQ5OTk3MTY2NSwtMj
+AyNDA2NTk3MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LDE3OTI4
+NjI5MjYsMTgyNTAzMjYxN119
 -->
