@@ -1,11 +1,17 @@
 # 基于方向图可重构技术的相控阵大角度扫描特性研究
-具有宽波束的单元构成相控阵实现大角度扫描
--  ***相控阵结构组成***
+
+相控阵一般实现：具有宽波束的单元构成相控阵实现大角度扫描
+
+***
+
+ ***相控阵结构组成***
 - 阵元天线
 - 馈电网络
 - 移相器
 - 有源相控阵还包括T/R组件（含有固态高功率发射放大器和低噪声放大器）、设定代码、波控器等等
 
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTE5MzY4NDI4MzMsMTc5Mjg2MjkyNiwxOD
+I1MDMyNjE3XX0=
 -->
