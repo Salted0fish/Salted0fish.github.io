@@ -10,8 +10,12 @@
 - 移相器
 - 有源相控阵还包括T/R组件（含有固态高功率发射放大器和低噪声放大器）、设定代码、波控器等等
 
-*
+***
+
+***相控阵天线按照扫描方式分类：***
+- 频率扫描天线
+- 相位扫描天线
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzY4NDI4MzMsMTc5Mjg2MjkyNiwxOD
-I1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTY2NDYxNjUyNSwxNzkyODYyOTI2LDE4Mj
+UwMzI2MTddfQ==
 -->
