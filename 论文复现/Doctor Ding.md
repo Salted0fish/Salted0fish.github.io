@@ -1,6 +1,6 @@
 # 基于方向图可重构技术的相控阵大角度扫描特性研究
 
- ***相控阵结构组成***
+ **相控阵结构组成**
 - 阵元天线
 - 馈电网络
 - 移相器
@@ -8,7 +8,7 @@
 
 ***
 
-***相控阵天线按照扫描方式分类***
+**相控阵天线按照扫描方式分类**
 - 频率扫描天线（frequency scanning  antenna）
 - ***相位扫描天线（phased scanning antenna）***
 	相位扫描天线即普遍提及的相控阵天线（今后主流趋势）。
@@ -19,17 +19,17 @@
 
 ***
 
-***相控阵天线发展前景***
+**相控阵天线发展前景**
 - 共形相控阵天线
 - 智能蒙皮相控阵天线
 	具有低截获概率（LPI）和低可探测性（LO）
 	蒙皮：天线的共形和承载功能
 	智能：天线自适应性
 	技术难点：低RCS技术、动态低RCS技术、时域/空域/频域/重构技术、低截获概率技术、低可探测技术等
-- **大角度扫描相控阵天线***
+- **大角度扫描相控阵天线**
 	***制约扫描角度因素：阵元的互耦效应、阵元方向图以及阻抗匹配等。***
 	普通微带贴片最佳扫描范围为 ***单元法向+-60°范围***  [***参考文献 15-16***]
-    可用技术：***方向图可重构技术***
+    可用技术：**方向图可重构技术**
     实现方法：
     - 选用具有宽波束的辐射单元，如槽缝天线、偶极子天线、宽波束微带天线等。
     - 采用“机械扫描+相位扫描”相结合的方式。
@@ -57,10 +57,17 @@
 *开关控制四个阵元是否工作（成为 ***哑元*** ）*
 ![输入图片说明](/imgs/2023-09-02/c0i819anyrrihQdA.png)
 - 人工材料、异性介质等特殊构造
+
+***
+
 **方向图可重构天线中 开关 的应用**
+- PIN二极管
+- 变容二极管
+- MEMS电磁开关
+- guang'dao
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjUxNTk4MSwxNjM0NDgyNjkxLDkxND
-A4ODc5LC03ODc2Njg2NDcsLTUxNDkzMTM0OSwxNDk5OTcxNjY1
-LC0yMDI0MDY1OTcyLC0xNjI3Mzk3NTQ0LDE0OTY4NTAzODUsMT
-c5Mjg2MjkyNiwxODI1MDMyNjE3XX0=
+eyJoaXN0b3J5IjpbLTE0OTI3MjQ4NjMsMTYzNDQ4MjY5MSw5MT
+QwODg3OSwtNzg3NjY4NjQ3LC01MTQ5MzEzNDksMTQ5OTk3MTY2
+NSwtMjAyNDA2NTk3MiwtMTYyNzM5NzU0NCwxNDk2ODUwMzg1LD
+E3OTI4NjI5MjYsMTgyNTAzMjYxN119
 -->
