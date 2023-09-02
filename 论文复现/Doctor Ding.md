@@ -53,10 +53,11 @@
 	*控制微带贴片天线两侧俩寄生贴片长度，用类似八木天线原理重构方向图*
 ![输入图片说明](/imgs/2023-09-02/4jdluD3XRd2dCBCm.png)
 缺点——增大天线尺寸
-
+- 改变馈电结构
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODkyNzU0MSwtNzg3NjY4NjQ3LC01MT
-Q5MzEzNDksMTQ5OTk3MTY2NSwtMjAyNDA2NTk3MiwtMTYyNzM5
-NzU0NCwxNDk2ODUwMzg1LDE3OTI4NjI5MjYsMTgyNTAzMjYxN1
-19
+eyJoaXN0b3J5IjpbODU4MTI3MTk4LC03ODc2Njg2NDcsLTUxND
+kzMTM0OSwxNDk5OTcxNjY1LC0yMDI0MDY1OTcyLC0xNjI3Mzk3
+NTQ0LDE0OTY4NTAzODUsMTc5Mjg2MjkyNiwxODI1MDMyNjE3XX
+0=
 -->
