@@ -19,9 +19,10 @@
 	   Gfeed = 7dB
 	- 相控阵单元增益分配(MxN单元阵列)
 	   Garray = Gelement x Garray_vertical_Mx1 x Garray_line_1xN
-	   垂直于轴线子阵Garray_vertical_Mx1 = 6 dB )
+	   垂直于轴线子阵Garray_vertical_Mx1 = 6 dB (该方向波束宽度小于15度，以普通微带天线为例，波束宽度为100度，M取4时	大概满足要求，此时阵因子增益大概为6dB)
+	   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjA4MjQyMSwtNTk0NTkwMzE2LC0xOD
+eyJoaXN0b3J5IjpbMTYyNjE4ODEwNSwtNTk0NTkwMzE2LC0xOD
 k2Nzg1ODEwXX0=
 -->
