@@ -17,11 +17,11 @@
 	   Gsystem = Garray x Gfeed
 	   Garray = 30000/(θ_0.5 x φ_0.5) = 23dB
 	   Gfeed = 7dB
-	- 相控阵单元增益分配
+	- 相控阵单元增益分配(MxN单元阵列)
 	   Garray = Gelement x Garray_vertical_Mx1 x Garray_line_1xN
-	   
+	   垂直于轴线子阵Garray_vertical_Mx1 = 6 dB )
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjgxNzgyNywtNTk0NTkwMzE2LC0xOD
+eyJoaXN0b3J5IjpbMTQxNjA4MjQyMSwtNTk0NTkwMzE2LC0xOD
 k2Nzg1ODEwXX0=
 -->
