@@ -13,12 +13,13 @@
 
 **主要流程：指标分解 **->**  设计部件 **->** 系统搭接**
 1. 指标分解
-	- 系统增益Gsystem=30dB。
+	- 相控阵系统增益分配Gsystem=30dB。
 	   Gsystem = Garray x Gfeed
-	   Garray = 30000/(θ_0.5 x φ_0.5)
-	- 
+	   Garray = 30000/(θ_0.5 x φ_0.5) = 23dB
+	   Gfeed = 7dB
+	- 相控阵单元增益分配
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzA4NDA1MywtNTk0NTkwMzE2LC0xOD
+eyJoaXN0b3J5IjpbMTMzMDg2OTA5OCwtNTk0NTkwMzE2LC0xOD
 k2Nzg1ODEwXX0=
 -->
