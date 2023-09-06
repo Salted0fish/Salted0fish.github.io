@@ -18,8 +18,9 @@
 	   Garray = 30000/(θ_0.5 x φ_0.5) = 23dB
 	   Gfeed = 7dB
 	- 相控阵单元增益分配
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDg2OTA5OCwtNTk0NTkwMzE2LC0xOD
+eyJoaXN0b3J5IjpbLTkwNzExMTUzOSwtNTk0NTkwMzE2LC0xOD
 k2Nzg1ODEwXX0=
 -->
