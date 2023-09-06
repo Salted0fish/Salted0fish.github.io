@@ -4,10 +4,14 @@
 
 ## 相控阵大角度扫描实验验证方案
 主要验证内容与关键指标：
-- 1x4大角度扫描相控阵天线
+- 低成本实现大角度扫描相控阵天线，构建 1×4 有源相控阵系统
 - 工作在Ka波段
-- 轴线平面内fang'x't
+	**
+- 轴线平面内方向图扫描区域达到-80° ~ +80°
+- 扫描波束宽度在轴线方向小于10度，垂直轴线方向小于15度
+- 相控阵系统的有源增益达到 30dB
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU4MTE0MzMsLTU5NDU5MDMxNiwtMT
+eyJoaXN0b3J5IjpbLTEwMTg4Mzc0NTksLTU5NDU5MDMxNiwtMT
 g5Njc4NTgxMF19
 -->
