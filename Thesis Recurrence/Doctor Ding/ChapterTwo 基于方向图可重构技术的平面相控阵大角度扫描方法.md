@@ -6,6 +6,7 @@
 **主要验证内容与关键指标：**
 - 低成本实现大角度扫描相控阵天线，构建 1×4 有源相控阵系统
 - 工作在Ka波段
+
 ![频率波段](/imgs/2023-09-06/cFMSgIw9DALRSVLF.png)
 
 
@@ -34,6 +35,7 @@
 	   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDgzMjc5NSwtMTIxMDI5MDEzNywxNj
-I2MTg4MTA1LC01OTQ1OTAzMTYsLTE4OTY3ODU4MTBdfQ==
+eyJoaXN0b3J5IjpbMTc4MjY2NjUwNSwyMDc0ODMyNzk1LC0xMj
+EwMjkwMTM3LDE2MjYxODgxMDUsLTU5NDU5MDMxNiwtMTg5Njc4
+NTgxMF19
 -->
