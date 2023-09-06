@@ -13,9 +13,11 @@
 
 **主要流程：指标分解 **->**  设计部件 **->** 系统搭接**
 1. 指标分解
-	- 系统增益30
+	- 系统增益Gsystem=30dB。
+		Gsystem
+	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyNjM3OTkzLC01OTQ1OTAzMTYsLTE4OT
+eyJoaXN0b3J5IjpbODUwOTUwNTQ5LC01OTQ1OTAzMTYsLTE4OT
 Y3ODU4MTBdfQ==
 -->
