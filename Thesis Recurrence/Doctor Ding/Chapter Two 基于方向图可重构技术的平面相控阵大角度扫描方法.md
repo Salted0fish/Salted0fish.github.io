@@ -14,10 +14,11 @@
 **主要流程：指标分解 **->**  设计部件 **->** 系统搭接**
 1. 指标分解
 	- 系统增益Gsystem=30dB。
-		Gsystem
+	   Gsystem = Garray x Gfeed
+	   Garray = 30000/(θ0.5 x φ0.5)
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUwOTUwNTQ5LC01OTQ1OTAzMTYsLTE4OT
-Y3ODU4MTBdfQ==
+eyJoaXN0b3J5IjpbMTQ3ODM0MzcxMSwtNTk0NTkwMzE2LC0xOD
+k2Nzg1ODEwXX0=
 -->
