@@ -15,10 +15,10 @@
 1. 指标分解
 	- 系统增益Gsystem=30dB。
 	   Gsystem = Garray x Gfeed
-	   Garray = 30000/(θ0.5 x φ0.5)
+	   Garray = 30000/(θ_0.5 x φ_0.5)
 	- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODM0MzcxMSwtNTk0NTkwMzE2LC0xOD
+eyJoaXN0b3J5IjpbLTk5NzA4NDA1MywtNTk0NTkwMzE2LC0xOD
 k2Nzg1ODEwXX0=
 -->
