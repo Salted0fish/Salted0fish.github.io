@@ -6,12 +6,12 @@
 主要验证内容与关键指标：
 - 低成本实现大角度扫描相控阵天线，构建 1×4 有源相控阵系统
 - 工作在Ka波段
-	**
+![频率波段](/imgs/2023-09-06/cFMSgIw9DALRSVLF.png)
 - 轴线平面内方向图扫描区域达到-80° ~ +80°
 - 扫描波束宽度在轴线方向小于10度，垂直轴线方向小于15度
 - 相控阵系统的有源增益达到 30dB
-
+主要流程：
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg4Mzc0NTksLTU5NDU5MDMxNiwtMT
-g5Njc4NTgxMF19
+eyJoaXN0b3J5IjpbMTYxODI3MDk5MywtNTk0NTkwMzE2LC0xOD
+k2Nzg1ODEwXX0=
 -->
