@@ -13,13 +13,17 @@
 - 反射金属地板 reflection ground
 
 
-
 ![毫米波缝隙耦合辐射基本元的结构和具体尺寸](/imgs/2023-09-20/7SetwbPqR8H5etUO.png)    ![毫米波缝隙耦合辐射基本元的结构和具体尺寸](/imgs/2023-09-20/9zQ2SWdgc1hHT7dh.png)
 
 
 1. 材料的选取
 	- 介质基板：材料与几何厚度
 	   材料主要与其介电常数、损耗角正切等参量相关
+	   - 损耗主要包括
+		  介质损耗（主要由基片材料的介电常数、损耗角正切决定）
+		  导体损耗（主要由导体表面电阻决定）
+		  表面波损耗（主要由频率和基片的厚度决定）
+	      辐射损耗（薄基片可忽略）
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODEzMzEyNF19
+eyJoaXN0b3J5IjpbMTE3NjU4MjcxMV19
 -->
