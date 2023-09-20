@@ -30,7 +30,11 @@
 2. 馈电方式选取
 	- 微带线共面侧馈
 	- 同轴线背馈
-	- 电磁耦合馈电	
+	-  ** 电磁耦合馈电	**
+
+3. 关键尺寸选取
+
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ==
 -->
