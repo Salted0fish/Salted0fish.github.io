@@ -8,8 +8,10 @@
 6. 胥桉棋 工作在5GHz的12×12反射阵斜扫情况 （出差在外？）
 
 20230920
-韩刘远志 22入学保研
-刘宜新、张李江 23入学保研
+韩刘远志  22入学保研
+刘宜新	  23入学保研
+张李江      23入学保研
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODY2ODMwMF19
+eyJoaXN0b3J5IjpbLTExMTE2MDM4MDZdfQ==
 -->
