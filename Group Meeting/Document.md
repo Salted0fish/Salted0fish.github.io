@@ -17,11 +17,11 @@
 2. 叶香麟 单元拓扑 方向图可重构子阵
 3. 王麒铭 GUI呼吸心跳成果及神经网络应用  ResNet
 4. 石云翔 基于生成机器学习的多层超表面反设计方法 VAE 超表面 
-5. 韩刘志远 非周期相控阵波控板
+5. 韩刘志远 非周期相控阵波控板 
 6. 张志发
 7. 张裕森
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYyNTc0NTIsMTY1NDM1MjU2NiwtNj
+eyJoaXN0b3J5IjpbLTE1NDQyNTY3NDgsMTY1NDM1MjU2NiwtNj
 cwNDg4NjE1LC00ODk5MzQ5NDAsLTYyODQwNjEyOCwtMTY0MDQw
 NzQ0MSwtMTExMTYwMzgwNl19
 -->
