@@ -16,9 +16,10 @@
 1. 符博 阵列扫描天线 蝶形单元天线 圆极化 轴比 交叉极化 蒙特卡洛分析
 2. 叶香麟 单元拓扑 方向图可重构子阵
 3. 王麒铭 GUI呼吸心跳成果及神经网络应用  ResNet
-4. 石云翔 基于生成机器学习的多层超表面反设计方法 VAE
+4. 石云翔 基于生成机器学习的多层超表面反设计方法 VAE 超表面 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDQ4ODYxNSwtNDg5OTM0OTQwLC02Mj
-g0MDYxMjgsLTE2NDA0MDc0NDEsLTExMTE2MDM4MDZdfQ==
+eyJoaXN0b3J5IjpbMTY1NDM1MjU2NiwtNjcwNDg4NjE1LC00OD
+k5MzQ5NDAsLTYyODQwNjEyOCwtMTY0MDQwNzQ0MSwtMTExMTYw
+MzgwNl19
 -->
