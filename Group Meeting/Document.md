@@ -12,6 +12,8 @@
 刘宜新	  23入学保研
 张李江      23入学保研
 
+20230921
+1. 符博 阵列扫描天线 蝶形单元天线
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE2MDM4MDZdfQ==
+eyJoaXN0b3J5IjpbMTM4NzQ5ODE2MiwtMTExMTYwMzgwNl19
 -->
