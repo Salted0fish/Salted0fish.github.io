@@ -14,8 +14,8 @@
 
 20230921
 1. 符博 阵列扫描天线 蝶形单元天线 圆极化 轴比 交叉极化 蒙特卡洛分析
-2. 叶香麟 单元拓扑
+2. 叶香麟 单元拓扑 方向图可重构子阵
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTgyOTYxOTMsLTE2NDA0MDc0NDEsLT
-ExMTE2MDM4MDZdfQ==
+eyJoaXN0b3J5IjpbLTYyODQwNjEyOCwtMTY0MDQwNzQ0MSwtMT
+ExMTYwMzgwNl19
 -->
