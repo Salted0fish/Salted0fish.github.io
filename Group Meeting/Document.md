@@ -18,10 +18,10 @@
 3. 王麒铭 GUI呼吸心跳成果及神经网络应用  ResNet
 4. 石云翔 基于生成机器学习的多层超表面反设计方法 VAE 超表面 
 5. 韩刘志远 非周期相控阵波控板 
-6. 张志发 瓦尔迪天线
+6. 张志发 瓦尔迪天线 偶极子圆极化天线 
 7. 张裕森
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5MDMxNzAsMTY1NDM1MjU2NiwtNjcwND
-g4NjE1LC00ODk5MzQ5NDAsLTYyODQwNjEyOCwtMTY0MDQwNzQ0
-MSwtMTExMTYwMzgwNl19
+eyJoaXN0b3J5IjpbLTE2NTA1NjI1NzgsMTY1NDM1MjU2NiwtNj
+cwNDg4NjE1LC00ODk5MzQ5NDAsLTYyODQwNjEyOCwtMTY0MDQw
+NzQ0MSwtMTExMTYwMzgwNl19
 -->
