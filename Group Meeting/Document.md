@@ -15,7 +15,8 @@
 20230921
 1. 符博 阵列扫描天线 蝶形单元天线 圆极化 轴比 交叉极化 蒙特卡洛分析
 2. 叶香麟 单元拓扑 方向图可重构子阵
+3. 王麒铭 GUI呼吸心跳成果及神经网络应用 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODQwNjEyOCwtMTY0MDQwNzQ0MSwtMT
-ExMTYwMzgwNl19
+eyJoaXN0b3J5IjpbLTQ4OTkzNDk0MCwtNjI4NDA2MTI4LC0xNj
+QwNDA3NDQxLC0xMTExNjAzODA2XX0=
 -->
