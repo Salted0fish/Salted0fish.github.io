@@ -19,9 +19,9 @@
 4. 石云翔 基于生成机器学习的多层超表面反设计方法 VAE 超表面 
 5. 韩刘志远 非周期相控阵波控板 
 6. 张志发 瓦尔迪天线 偶极子圆极化天线 王阳硕士论文搞了圆极化的 可以参考调节轴比
-7. 张裕森
+7. 张裕森 vivaldi天线
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTIyNDEzNiwxNjU0MzUyNTY2LC02Nz
-A0ODg2MTUsLTQ4OTkzNDk0MCwtNjI4NDA2MTI4LC0xNjQwNDA3
-NDQxLC0xMTExNjAzODA2XX0=
+eyJoaXN0b3J5IjpbMTM3MjczNTIzMSwxMjM5MjI0MTM2LDE2NT
+QzNTI1NjYsLTY3MDQ4ODYxNSwtNDg5OTM0OTQwLC02Mjg0MDYx
+MjgsLTE2NDA0MDc0NDEsLTExMTE2MDM4MDZdfQ==
 -->
