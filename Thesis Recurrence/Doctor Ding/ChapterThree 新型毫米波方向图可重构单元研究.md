@@ -33,8 +33,11 @@
 	-  ** 电磁耦合馈电	**
 
 3. 关键尺寸选取
+![基本单元尺寸](/imgs/2023-10-07/IYjezEf0cV8elFMC.png)
 
-		
+## 仿真结果
+![fang'zhen'm](/imgs/2023-10-07/ZuUPZL6RMkr0f3Ug.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbLTczOTgwNzU1OSw0NTY2MjE3NywtMTk0OT
+U0MjM0NF19
 -->
