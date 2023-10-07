@@ -65,10 +65,15 @@
 
 ### 理想馈电相移网络
 
-理想的馈电相移网络是一个无反射、无损耗的二端口网络。它仅仅对信号产生一定的相位改变而不产生能量的衰减，其散射矩阵可以写为
+理想的馈电相移网络是一个无反射、无损耗的二端口网络。
+它仅仅对信号产生一定的相位改变而不产生能量的衰减，其散射矩阵可以写为
 ![理想的馈电相移网络散射矩阵](/imgs/2023-10-07/UOkoRKvntnA91N04.png)
+如果利用微带传输线传输相位延迟性来构建移相网络，
+那么经过长度为l 的微带传输线，相位延迟量为
+![微带传输线传输相位延迟](/imgs/2023-10-07/gSJaZ2bwNlBKyFPg.png)
 
+qu'yu'h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzU1MzQ5NSwxNTQ5Mjk2NDg1LDQ1Nj
-YyMTc3LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbMTU3NTIwNzk1LDE1NDkyOTY0ODUsNDU2Nj
+IxNzcsLTE5NDk1NDIzNDRdfQ==
 -->
