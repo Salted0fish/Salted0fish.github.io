@@ -49,13 +49,14 @@
 - 增益可达10dB
 - E面3dB波束宽度65°
 - H面3dB波束宽度65°
-- jin'shu'f
+- 金属反射板的确可以提高增益，为2dB左右
 
 问题：
 - H面仿真结果错误
 - E面仿真波束宽度过大
-- 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDEyNTkwNjMsNDU2NjIxNzcsLTE5ND
-k1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbMTU0OTI5NjQ4NSw0NTY2MjE3NywtMTk0OT
+U0MjM0NF19
 -->
