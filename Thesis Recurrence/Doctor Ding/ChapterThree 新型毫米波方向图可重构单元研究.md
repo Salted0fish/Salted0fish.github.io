@@ -75,7 +75,13 @@
 3区域划分 = 3重构模式
 ![3重构模式方向图最大指向](/imgs/2023-10-07/zc2WqC04MFWL5OoY.png)
 
+由最大指向角度公式可计算，不同模式馈电相移分别为
+![不同模式馈电相移](/imgs/2023-10-07/CwrlYiA5g2H4HJ1X.png)
+
+加入PIN 开关
+*（考虑到 PIN 二极管开关的封装尺寸，用于放置 PIN 开关的缝隙宽度均设计成 0.5mm。）*
+![输入图片说明](/imgs/2023-10-07/sLjqZ2BRoJ6iaxSw.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5Mzc1MjIsMTU0OTI5NjQ4NSw0NTY2Mj
-E3NywtMTk0OTU0MjM0NF19
+eyJoaXN0b3J5IjpbMTg4NjM2ODc2NywxNTQ5Mjk2NDg1LDQ1Nj
+YyMTc3LC0xOTQ5NTQyMzQ0XX0=
 -->
