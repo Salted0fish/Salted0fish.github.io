@@ -57,8 +57,18 @@
 
 # 方向图可重构单元设计结果及分析
 阵列方向图计算公式（理论方向图） + 基本辐射元间互藕效应
+![阵列方向图计算公式](/imgs/2023-10-07/GGR4qcLp8zoUxP15.jpeg)
+
+![波束最大值指向角度](/imgs/2023-10-07/3YwnGXqNJQGl6slR.png)
+
+只通过调节相邻基本辐射元间的相位差来改变方向图可重构单元波束最大指向
+
+### 理想馈电相移网络
+
+理想的馈电相移网络是一个无反射、无损耗的二端口网络。它仅仅对信号产生一定的相位改变而不产生能量的衰减，其散射矩阵可以写为
+![理想的馈电相移网络散射矩阵](/imgs/2023-10-07/UOkoRKvntnA91N04.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4NTAwNTIxLDE1NDkyOTY0ODUsNDU2Nj
-IxNzcsLTE5NDk1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbMjAwNzU1MzQ5NSwxNTQ5Mjk2NDg1LDQ1Nj
+YyMTc3LC0xOTQ5NTQyMzQ0XX0=
 -->
