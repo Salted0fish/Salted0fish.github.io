@@ -83,8 +83,9 @@
 ![可重构馈电网络整体示意图](/imgs/2023-10-07/sLjqZ2BRoJ6iaxSw.png)
 SMA 是微波接头，靠近 SMA 的黑色小方块是用来隔离直流的贴片电容
 Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
+![可重构馈电网络重构示意图](/imgs/2023-10-07/VRxzY9Nu9qZZkxvD.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg1Njc1ODEsMTU0OTI5NjQ4NSw0NT
-Y2MjE3NywtMTk0OTU0MjM0NF19
+eyJoaXN0b3J5IjpbMTQ3MjU3NTA5OCwtMTU0ODU2NzU4MSwxNT
+Q5Mjk2NDg1LDQ1NjYyMTc3LC0xOTQ5NTQyMzQ0XX0=
 -->
