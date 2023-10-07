@@ -72,8 +72,10 @@
 那么经过长度为l 的微带传输线，相位延迟量为
 ![微带传输线传输相位延迟](/imgs/2023-10-07/gSJaZ2bwNlBKyFPg.png)
 
-qu'yu'h
+3区域划分 = 3重构模式
+![3重构模式方向图最大指向](/imgs/2023-10-07/zc2WqC04MFWL5OoY.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTIwNzk1LDE1NDkyOTY0ODUsNDU2Nj
-IxNzcsLTE5NDk1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbODM5Mzc1MjIsMTU0OTI5NjQ4NSw0NTY2Mj
+E3NywtMTk0OTU0MjM0NF19
 -->
