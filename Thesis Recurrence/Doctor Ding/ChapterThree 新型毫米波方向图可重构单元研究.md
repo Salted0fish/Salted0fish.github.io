@@ -85,9 +85,11 @@ SMA 是微波接头，靠近 SMA 的黑色小方块是用来隔离直流的贴�
 Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 ![可重构馈电网络重构示意图](/imgs/2023-10-07/VRxzY9Nu9qZZkxvD.png)
 ![重构馈电网络的步骤](/imgs/2023-10-07/g3JJQlDbE3W9DKC9.png)
+相比于 Mode-1 和 Mode-3，Mode-2 端口的反射系数更小
+与 Mode-1 和 Mode-3 相比，Mode-2 的馈电结构中的倒角更加地少，Mode-2 的馈电网络更加简单，因此这样可以减少一些额外的反射。
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzExNzQ1LDE0NzI1NzUwOTgsLTE1ND
-g1Njc1ODEsMTU0OTI5NjQ4NSw0NTY2MjE3NywtMTk0OTU0MjM0
-NF19
+eyJoaXN0b3J5IjpbMTY1NzU2MTQxNCwtMTEzMTE3NDUsMTQ3Mj
+U3NTA5OCwtMTU0ODU2NzU4MSwxNTQ5Mjk2NDg1LDQ1NjYyMTc3
+LC0xOTQ5NTQyMzQ0XX0=
 -->
