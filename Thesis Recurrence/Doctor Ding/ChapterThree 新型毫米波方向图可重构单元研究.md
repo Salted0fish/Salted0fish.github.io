@@ -80,8 +80,11 @@
 
 加入PIN 开关
 *（考虑到 PIN 二极管开关的封装尺寸，用于放置 PIN 开关的缝隙宽度均设计成 0.5mm。）*
-![输入图片说明](/imgs/2023-10-07/sLjqZ2BRoJ6iaxSw.png)
+![可重构馈电网络整体示意图](/imgs/2023-10-07/sLjqZ2BRoJ6iaxSw.png)
+SMA 是微波接头，靠近 SMA 的黑色小方块是用来隔离直流的贴片电容
+Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjM2ODc2NywxNTQ5Mjk2NDg1LDQ1Nj
-YyMTc3LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbLTE1NDg1Njc1ODEsMTU0OTI5NjQ4NSw0NT
+Y2MjE3NywtMTk0OTU0MjM0NF19
 -->
