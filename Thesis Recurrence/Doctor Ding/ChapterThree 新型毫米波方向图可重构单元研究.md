@@ -48,8 +48,14 @@
 - 反射系数可低于10dB
 - 增益可达10dB
 - E面3dB波束宽度65°
+- H面3dB波束宽度65°
+- jin'shu'f
+
+问题：
+- H面仿真结果错误
+- E面仿真波束宽度过大
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NzIzNDg2Niw0NTY2MjE3NywtMTk0OT
-U0MjM0NF19
+eyJoaXN0b3J5IjpbLTEzMDEyNTkwNjMsNDU2NjIxNzcsLTE5ND
+k1NDIzNDRdfQ==
 -->
