@@ -42,7 +42,14 @@
 
 ![E_Plane](/imgs/2023-10-07/z9E1QUZm9oW7uN9s.png)
 
+![H_plane](/imgs/2023-10-07/6cHGIxyb3PsUftaH.png)
+
+实验数据：
+- 反射系数可低于10dB
+- 增益可达10dB
+- E面3dB波束宽度65°
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI4OTAyMjMsNDU2NjIxNzcsLTE5ND
-k1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbMTU2NzIzNDg2Niw0NTY2MjE3NywtMTk0OT
+U0MjM0NF19
 -->
