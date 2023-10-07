@@ -56,9 +56,9 @@
 - E面仿真波束宽度过大
 
 # 方向图可重构单元设计结果及分析
-
+阵列方向图计算公式（理论方向图） + 基本辐射元间互藕效应
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzk2NTI5OCwxNTQ5Mjk2NDg1LDQ1Nj
-YyMTc3LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbNjA4NTAwNTIxLDE1NDkyOTY0ODUsNDU2Nj
+IxNzcsLTE5NDk1NDIzNDRdfQ==
 -->
