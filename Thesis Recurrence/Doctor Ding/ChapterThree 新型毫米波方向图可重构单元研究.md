@@ -36,8 +36,13 @@
 ![基本单元尺寸](/imgs/2023-10-07/IYjezEf0cV8elFMC.png)
 
 ## 仿真结果
-![fang'zhen'm](/imgs/2023-10-07/ZuUPZL6RMkr0f3Ug.png)
+![仿真模型](/imgs/2023-10-07/ZuUPZL6RMkr0f3Ug.png)
+
+![反射系数](/imgs/2023-10-07/apmG3F30FoX4HcVb.png)
+
+![E_Plane](/imgs/2023-10-07/z9E1QUZm9oW7uN9s.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTgwNzU1OSw0NTY2MjE3NywtMTk0OT
-U0MjM0NF19
+eyJoaXN0b3J5IjpbLTE5NTI4OTAyMjMsNDU2NjIxNzcsLTE5ND
+k1NDIzNDRdfQ==
 -->
