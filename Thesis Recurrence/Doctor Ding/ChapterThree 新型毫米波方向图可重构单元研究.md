@@ -107,10 +107,11 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 仿真结果分析：
 - PIN二极管在HFSS种如何仿真，开路可以直接断开传输线吗？
 - S参数：出现明显频移，如何做匹配工作？
-- Mode2和Mode3在调整馈电相位差时，在出现最大波束指向偏转同时，
+- Mode2和Mode3在调整馈电相位差时，在出现最大波束指向偏转同时，出现副瓣，旁瓣，Mode3还出现了严重的后瓣，这都如何解释与优化？
+- 仿真全流程中H面始终不是全向的（圆形）
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUwMDA0NTQsMTY1NzU2MTQxNCwtMT
-EzMTE3NDUsMTQ3MjU3NTA5OCwtMTU0ODU2NzU4MSwxNTQ5Mjk2
-NDg1LDQ1NjYyMTc3LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbMTA4MDA2NDE1OSwxNjU3NTYxNDE0LC0xMT
+MxMTc0NSwxNDcyNTc1MDk4LC0xNTQ4NTY3NTgxLDE1NDkyOTY0
+ODUsNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ==
 -->
