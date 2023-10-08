@@ -94,9 +94,15 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 ### Mode1
 ![Mode1模型](/imgs/2023-10-08/hI1Vu9pm41tObQzm.jpeg)
 ![Mode1S参数](/imgs/2023-10-08/Ym54rGTzcErVNT2k.jpeg)
-![输入图片说明](/imgs/2023-10-08/NtpbK2w8uVzme1si.jpeg)
+![Mode1E面方向图](/imgs/2023-10-08/NtpbK2w8uVzme1si.jpeg)
+### Mode2
+![Mode2模型](/imgs/2023-10-08/sYmk10P3l6zVJXAg.png)
+![Mode2S参数](/imgs/2023-10-08/sVAGGXonkQSGEVor.png)
+![Mode2E面方向图](/imgs/2023-10-08/z5J5FlrLKFbGbvGW.png)
+### Mode3
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDEwNTc4LDE2NTc1NjE0MTQsLTExMz
+eyJoaXN0b3J5IjpbOTE5NzE5MDg3LDE2NTc1NjE0MTQsLTExMz
 ExNzQ1LDE0NzI1NzUwOTgsLTE1NDg1Njc1ODEsMTU0OTI5NjQ4
 NSw0NTY2MjE3NywtMTk0OTU0MjM0NF19
 -->
