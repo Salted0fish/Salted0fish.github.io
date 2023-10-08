@@ -109,9 +109,13 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 - S参数：出现明显频移，如何做匹配工作？
 - Mode2和Mode3在调整馈电相位差时，在出现最大波束指向偏转同时，出现副瓣，旁瓣，Mode3还出现了严重的后瓣，这都如何解释与优化？
 - 仿真全流程中H面始终不是全向的（圆形）
-- f
+- E面，H面半功率波束宽度不达标
+- 辐射平坦度怎么计算
+
+待解决问题：互藕
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxMTczOTk5LDEwODAwNjQxNTksMTY1Nz
-U2MTQxNCwtMTEzMTE3NDUsMTQ3MjU3NTA5OCwtMTU0ODU2NzU4
-MSwxNTQ5Mjk2NDg1LDQ1NjYyMTc3LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbLTEzMjYwMDE1MTAsMTA4MDA2NDE1OSwxNj
+U3NTYxNDE0LC0xMTMxMTc0NSwxNDcyNTc1MDk4LC0xNTQ4NTY3
+NTgxLDE1NDkyOTY0ODUsNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ
+==
 -->
