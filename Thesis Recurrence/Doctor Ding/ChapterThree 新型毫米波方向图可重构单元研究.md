@@ -88,8 +88,11 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 相比于 Mode-1 和 Mode-3，Mode-2 端口的反射系数更小
 与 Mode-1 和 Mode-3 相比，Mode-2 的馈电结构中的倒角更加地少，Mode-2 的馈电网络更加简单，因此这样可以减少一些额外的反射。
 
+## 仿真结果
+许多参数未给出，大致设定一参数
+![f](/imgs/2023-10-08/y2hZ23aB3hhAOsv8.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzU2MTQxNCwtMTEzMTE3NDUsMTQ3Mj
-U3NTA5OCwtMTU0ODU2NzU4MSwxNTQ5Mjk2NDg1LDQ1NjYyMTc3
-LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbLTYzNzI1MTI2NiwxNjU3NTYxNDE0LC0xMT
+MxMTc0NSwxNDcyNTc1MDk4LC0xNTQ4NTY3NTgxLDE1NDkyOTY0
+ODUsNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ==
 -->
