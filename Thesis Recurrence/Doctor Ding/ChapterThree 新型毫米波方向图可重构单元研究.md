@@ -90,9 +90,13 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 
 ## 仿真结果
 许多参数未给出，大致设定一参数
-![f](/imgs/2023-10-08/y2hZ23aB3hhAOsv8.png)
+![辐射阵列模型](/imgs/2023-10-08/y2hZ23aB3hhAOsv8.png)
+### Mode1
+![Mode1模型](/imgs/2023-10-08/hI1Vu9pm41tObQzm.jpeg)
+![Mode1S参数](/imgs/2023-10-08/Ym54rGTzcErVNT2k.jpeg)
+![输入图片说明](/imgs/2023-10-08/NtpbK2w8uVzme1si.jpeg)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzI1MTI2NiwxNjU3NTYxNDE0LC0xMT
-MxMTc0NSwxNDcyNTc1MDk4LC0xNTQ4NTY3NTgxLDE1NDkyOTY0
-ODUsNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ==
+eyJoaXN0b3J5IjpbMTY2NDEwNTc4LDE2NTc1NjE0MTQsLTExMz
+ExNzQ1LDE0NzI1NzUwOTgsLTE1NDg1Njc1ODEsMTU0OTI5NjQ4
+NSw0NTY2MjE3NywtMTk0OTU0MjM0NF19
 -->
