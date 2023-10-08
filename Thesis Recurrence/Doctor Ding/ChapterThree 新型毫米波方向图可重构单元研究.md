@@ -100,9 +100,16 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 ![Mode2S参数](/imgs/2023-10-08/sVAGGXonkQSGEVor.png)
 ![Mode2E面方向图](/imgs/2023-10-08/z5J5FlrLKFbGbvGW.png)
 ### Mode3
+![Mode3模型](/imgs/2023-10-08/Tr5gEKjvQ7j0PUMx.png)
+![Mode3S参数](/imgs/2023-10-08/7JMzIpl9EsBkHOtt.png)
+![Mode3E面方向图](/imgs/2023-10-08/sSzuoTQrkOKtD6DO.png)
 
+仿真结果分析：
+	- PIN
+- S参数：出现明显频移，如何做匹配工作？
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NzE5MDg3LDE2NTc1NjE0MTQsLTExMz
-ExNzQ1LDE0NzI1NzUwOTgsLTE1NDg1Njc1ODEsMTU0OTI5NjQ4
-NSw0NTY2MjE3NywtMTk0OTU0MjM0NF19
+eyJoaXN0b3J5IjpbLTg0NTEwNjU1OSwxNjU3NTYxNDE0LC0xMT
+MxMTc0NSwxNDcyNTc1MDk4LC0xNTQ4NTY3NTgxLDE1NDkyOTY0
+ODUsNDU2NjIxNzcsLTE5NDk1NDIzNDRdfQ==
 -->
