@@ -119,11 +119,13 @@ Pi (i = 1, 2,…,5)代表了接地接点或接 DC 电源的接点
 阅读参考文献101-缝隙馈电贴片天线的CAD设计与分析。
 问题![拓展带宽](/imgs/2023-10-11/uF1e5pv75jJaiRbK.png)
 为什么耦合馈电可以拓展带宽？
-重新设计基本单元：发现缝隙不在中线，电场最大辐射方向有所偏转
+重新设计基本单元：发现缝隙不在中线，电场最大辐射方向有所偏转（错误），缝隙位置 会影响什么？
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjM5ODc3ODUsMTM2MzI2NjA4NSwtOT
-QzNTQ1Nzg0LC0xMzI2MDAxNTEwLDEwODAwNjQxNTksMTY1NzU2
-MTQxNCwtMTEzMTE3NDUsMTQ3MjU3NTA5OCwtMTU0ODU2NzU4MS
-wxNTQ5Mjk2NDg1LDQ1NjYyMTc3LC0xOTQ5NTQyMzQ0XX0=
+eyJoaXN0b3J5IjpbNDA0Mjc2ODM0LC0xODIzOTg3Nzg1LDEzNj
+MyNjYwODUsLTk0MzU0NTc4NCwtMTMyNjAwMTUxMCwxMDgwMDY0
+MTU5LDE2NTc1NjE0MTQsLTExMzExNzQ1LDE0NzI1NzUwOTgsLT
+E1NDg1Njc1ODEsMTU0OTI5NjQ4NSw0NTY2MjE3NywtMTk0OTU0
+MjM0NF19
 -->
