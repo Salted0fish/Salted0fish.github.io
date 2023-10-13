@@ -17,8 +17,10 @@
 实际情况中，将通过测试各个方向图可重构单元的本征方向图来进一步明确扫描子空域的划分。
 测出十二组本征方向图：四个可重构单元 三种不同模式
 
-相控阵扫描不是1°这样的bu'jin
+**相控阵扫描不是1°这样的步进扫描？是通过比如步进25°扫描，波束覆盖范围达25°就可以实现覆盖这样子？那如何保证扫描精度呢？——P90-95**
+
+划分后因波束宽度小导致覆盖盲区，所以通过遗传算法优化波束宽度。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDE5MDIzLDIwMDY2NDA4ODksLTM1ND
-E3NjMxOCw2NzYyODQ2OTUsLTIwMjY4NDg1MjVdfQ==
+eyJoaXN0b3J5IjpbLTE0NTY0MjQ1OTAsMjAwNjY0MDg4OSwtMz
+U0MTc2MzE4LDY3NjI4NDY5NSwtMjAyNjg0ODUyNV19
 -->
