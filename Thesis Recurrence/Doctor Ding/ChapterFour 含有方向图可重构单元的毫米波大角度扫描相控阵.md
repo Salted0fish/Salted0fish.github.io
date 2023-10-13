@@ -26,13 +26,14 @@
 ### 遗传算法
 
 - 优化目标：合成波束表达式、重新调整各个可重构单元间的馈电幅度和相位
-- 适应度函数：在遗传算法优化进程中，关于适应度函数的建立主要考虑到以下 3 点，
-第一，控制相控阵天线扫描过程中所出现的高旁瓣；
+- 适应度函数：在遗传算法优化进程中，关于适应度函数的建立主要考虑到以下3点：
+	- 第一，控制相控阵天线扫描过程中所出现的高旁瓣；
+	- 第二，控制相控阵天线扫描过程中扫描波束的 3dB 波束宽度；
+	- 第三，控制相控阵天线扫描过程中扫描波束的指向角度。
 
-第二，控制相控阵天线扫描过程中扫描波束的 3dB 波束宽度；
+![遗传算法优化线性相控阵天线算法流程图](/imgs/2023-10-13/ddH6YSYTcRIvoX2l.png)
 
-第三，控制相控阵天线扫描过程中扫描波束的指向角度。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDI4MzI3MiwyMDA2NjQwODg5LC0zNT
-QxNzYzMTgsNjc2Mjg0Njk1LC0yMDI2ODQ4NTI1XX0=
+eyJoaXN0b3J5IjpbLTEyMDk0ODg1ODIsMjAwNjY0MDg4OSwtMz
+U0MTc2MzE4LDY3NjI4NDY5NSwtMjAyNjg0ODUyNV19
 -->
