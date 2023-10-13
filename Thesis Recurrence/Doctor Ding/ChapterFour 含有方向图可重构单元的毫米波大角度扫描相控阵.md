@@ -13,9 +13,10 @@
 控制栅瓣——调节相控阵各单元间间距
 使1的零点落在2的栅瓣位置处，减小栅瓣，但可能出现较大副瓣
 
+## 毫米波相控阵扫描特性分析
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzgxNDAzNiw2NzYyODQ2OTUsLTIwMj
+eyJoaXN0b3J5IjpbLTM1NDE3NjMxOCw2NzYyODQ2OTUsLTIwMj
 Y4NDg1MjVdfQ==
 -->
