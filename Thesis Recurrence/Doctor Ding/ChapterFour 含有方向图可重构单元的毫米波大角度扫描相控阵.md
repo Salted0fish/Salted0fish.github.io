@@ -14,9 +14,10 @@
 使1的零点落在2的栅瓣位置处，减小栅瓣，但可能出现较大副瓣
 
 ## 毫米波相控阵扫描特性分析
-
+实际情况中，将通过测试各个方向图可重构单元的本征方向图来进一步明确扫描子空域的划分。
+测出十二组本征方向图：四个可重构单元 三种不同模式
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDE3NjMxOCw2NzYyODQ2OTUsLTIwMj
-Y4NDg1MjVdfQ==
+eyJoaXN0b3J5IjpbMjAwNjY0MDg4OSwtMzU0MTc2MzE4LDY3Nj
+I4NDY5NSwtMjAyNjg0ODUyNV19
 -->
