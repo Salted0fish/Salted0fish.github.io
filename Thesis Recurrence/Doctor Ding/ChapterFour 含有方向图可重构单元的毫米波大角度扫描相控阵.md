@@ -17,7 +17,8 @@
 实际情况中，将通过测试各个方向图可重构单元的本征方向图来进一步明确扫描子空域的划分。
 测出十二组本征方向图：四个可重构单元 三种不同模式
 
+相控阵扫描不是1°这样的bu'jin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjY0MDg4OSwtMzU0MTc2MzE4LDY3Nj
-I4NDY5NSwtMjAyNjg0ODUyNV19
+eyJoaXN0b3J5IjpbLTUxMDE5MDIzLDIwMDY2NDA4ODksLTM1ND
+E3NjMxOCw2NzYyODQ2OTUsLTIwMjY4NDg1MjVdfQ==
 -->
