@@ -7,8 +7,9 @@
 
 ## 栅瓣控制与分析
 两个辛格函数的乘法，分别计算各自零点和最大值点
-ji's
+计算可重构相控阵阵因子零点和最大值点
+计算阵列阵因子零点和和最大值点，发现栅瓣h
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NjQ1OTgyLDY3NjI4NDY5NSwtMjAyNj
-g0ODUyNV19
+eyJoaXN0b3J5IjpbLTQ3MTc3NDcxMiw2NzYyODQ2OTUsLTIwMj
+Y4NDg1MjVdfQ==
 -->
