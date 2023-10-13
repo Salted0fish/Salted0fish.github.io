@@ -20,7 +20,13 @@
 **相控阵扫描不是1°这样的步进扫描？是通过比如步进25°扫描，波束覆盖范围达25°就可以实现覆盖这样子？那如何保证扫描精度呢？——P90-95**
 
 划分后因波束宽度小导致覆盖盲区，所以通过遗传算法优化波束宽度。
+
+栅瓣消除了，但是出现了高旁瓣。
+
+### 遗传算法
+重新调整各个可重构单元间的馈电幅度和相位
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY0MjQ1OTAsMjAwNjY0MDg4OSwtMz
-U0MTc2MzE4LDY3NjI4NDY5NSwtMjAyNjg0ODUyNV19
+eyJoaXN0b3J5IjpbNTk2NDAzMTA2LDIwMDY2NDA4ODksLTM1ND
+E3NjMxOCw2NzYyODQ2OTUsLTIwMjY4NDg1MjVdfQ==
 -->
