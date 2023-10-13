@@ -14,7 +14,8 @@
 使1的零点落在2的栅瓣位置处，减小栅瓣，但可能出现较大副瓣
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzQ4NjE4Miw2NzYyODQ2OTUsLTIwMj
+eyJoaXN0b3J5IjpbMTkyNzgxNDAzNiw2NzYyODQ2OTUsLTIwMj
 Y4NDg1MjVdfQ==
 -->
