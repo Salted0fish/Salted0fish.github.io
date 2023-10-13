@@ -5,7 +5,9 @@
 该相控阵阵列方向图公式可写为
 ![该相控阵阵列方向图公式](/imgs/2023-10-13/6viyTdQNb2OCXM6p.png)
 
+## 栅瓣控制与分析
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI2OTA2NTUsNjc2Mjg0Njk1LC0yMD
-I2ODQ4NTI1XX0=
+eyJoaXN0b3J5IjpbNDM2NTEyNTk0LDY3NjI4NDY5NSwtMjAyNj
+g0ODUyNV19
 -->
