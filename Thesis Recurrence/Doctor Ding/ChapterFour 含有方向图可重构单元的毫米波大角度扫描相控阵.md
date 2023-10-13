@@ -24,9 +24,15 @@
 栅瓣消除了，但是出现了高旁瓣。
 
 ### 遗传算法
-重新调整各个可重构单元间的馈电幅度和相位
 
+- 优化目标：合成波束表达式、重新调整各个可重构单元间的馈电幅度和相位
+- 适应度函数：在遗传算法优化进程中，关于适应度函数的建立主要考虑到以下 3 点，
+第一，控制相控阵天线扫描过程中所出现的高旁瓣；
+
+第二，控制相控阵天线扫描过程中扫描波束的 3dB 波束宽度；
+
+第三，控制相控阵天线扫描过程中扫描波束的指向角度。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NDAzMTA2LDIwMDY2NDA4ODksLTM1ND
-E3NjMxOCw2NzYyODQ2OTUsLTIwMjY4NDg1MjVdfQ==
+eyJoaXN0b3J5IjpbLTY3MDI4MzI3MiwyMDA2NjQwODg5LC0zNT
+QxNzYzMTgsNjc2Mjg0Njk1LC0yMDI2ODQ4NTI1XX0=
 -->
