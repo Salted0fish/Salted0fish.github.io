@@ -11,9 +11,10 @@
 2. 计算阵列阵因子零点和和最大值点，发现栅瓣很大
 
 控制栅瓣——调节相控阵各单元间间距
-使1的零点落在2的栅瓣位置处，减小栅瓣
+使1的零点落在2的栅瓣位置处，减小栅瓣，但可能出现较大副瓣
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzk3MTQxOTQsNjc2Mjg0Njk1LC0yMD
-I2ODQ4NTI1XX0=
+eyJoaXN0b3J5IjpbMTM2NzQ4NjE4Miw2NzYyODQ2OTUsLTIwMj
+Y4NDg1MjVdfQ==
 -->
