@@ -6,8 +6,9 @@
 ![该相控阵阵列方向图公式](/imgs/2023-10-13/6viyTdQNb2OCXM6p.png)
 
 ## 栅瓣控制与分析
-
+两个辛格函数的乘法，分别计算各自零点和最大值点
+ji's
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NTEyNTk0LDY3NjI4NDY5NSwtMjAyNj
+eyJoaXN0b3J5IjpbMTg0NjQ1OTgyLDY3NjI4NDY5NSwtMjAyNj
 g0ODUyNV19
 -->
